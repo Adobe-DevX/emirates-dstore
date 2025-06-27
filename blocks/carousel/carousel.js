@@ -143,9 +143,6 @@ export default async function decorate(block) {
 
   container.append(slidesWrapper);
   block.prepend(container);
-  if(window.location.pathname.includes("/us/en")){
-    window.location.replace("/");
-  }
   if (!isSingleSlide) {
     bindEvents(block);
   }
