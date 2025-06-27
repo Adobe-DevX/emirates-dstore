@@ -1,17 +1,8 @@
 {
     "mappings": [
-      "/content/emirates-store/:/",
-      "/content/emirates-store/configuration:/.helix/config.json",
-      "/content/emirates-store/metadata:/metadata.json",
-      "/content/emirates-store/configs:/configs.json",
-      "/content/emirates-store/redirects:/redirects.json",
-      "/content/emirates-store/placeholders:/placeholders.json",
-      "/content/emirates-store/products/recommended-products:/products/recommended-products.json",
-      "/content/emirates-store/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      
     ],
     "includes": [
-      "/content/emirates-store",
-      "/content/dam/citisignal/images/products/"
+      
     ]
 }
